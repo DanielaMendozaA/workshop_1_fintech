@@ -13,7 +13,7 @@ import { FinancialRecord } from './financial-records/entity/financial-record/fin
       host: "localhost",
       port: 3306,
       username: "root",
-      password: "Dani.checho123",
+      password: "",
       database: "microcredit",
       entities: [User, Microcredits, FinancialRecord],
       synchronize: true
